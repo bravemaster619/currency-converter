@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Currencies xmlns="http://xml.netbeans.org/schema/Currency">
+    <CurrencyList>
+        <Name>USD</Name>
+        <Rate>0.78</Rate>
+        <Base>GBP</Base>
+    </CurrencyList>
+    <CurrencyList>
+        <Name>CNY</Name>
+        <Rate>0.14</Rate>
+        <Base>GBP</Base>
+    </CurrencyList>
+    <CurrencyList>
+        <Name>GBP</Name>
+        <Rate>1.0</Rate>
+        <Base>GBP</Base>
+    </CurrencyList>
+    <CurrencyList>
+        <Name>NZD</Name>
+        <Rate>0.88</Rate>
+        <Base>GBP</Base>
+        <LastUpdated></LastUpdated>
+    </CurrencyList>
+</Currencies>
